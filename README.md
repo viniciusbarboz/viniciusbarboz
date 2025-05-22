@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Meu nome é Vinicius Barboza, sou estudante de programação</h2>
+
 
 ###
 
